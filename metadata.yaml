@@ -1,5 +1,8 @@
 _repo: Quincas-Borba_55682
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55682-h/images/cover.jpg
 creator:
   author:
     agent_name: Machado de Assis
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9685
     wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55682#Quincas-Borba
 gutenberg_issued: '2017-10-05'
 gutenberg_type: Text
 identifiers:
